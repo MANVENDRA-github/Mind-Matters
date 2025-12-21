@@ -44,7 +44,7 @@ Vite
 
 TailwindCSS / ShadCN UI
 
-WebRTC for video communication
+Stream for video communication
 
 Backend
 
