@@ -36,7 +36,7 @@ Daily check-ins and personalized activities
 
 Resource library with mental-health articles and coping strategies
 
- Tech Stack
+# Tech Stack
 Frontend
 
 React.js
