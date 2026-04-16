@@ -1,4 +1,5 @@
-Mind Matters — Mental Health Support & Therapist Connectivity Platform
+# Mind Matters
+Mental Health Support & Therapist Connectivity Platform
 
 Mind Matters is a secure and user-centric mental-health support application designed to bridge the gap between users and certified therapists. The platform provides real-time chat, video-calling capabilities, and an intelligent AI-powered assistant to help users manage stress, track well-being, and access personalized support.
 
@@ -35,7 +36,7 @@ Daily check-ins and personalized activities
 
 Resource library with mental-health articles and coping strategies
 
-🛠️ Tech Stack
+ Tech Stack
 Frontend
 
 React.js
